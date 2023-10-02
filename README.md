@@ -1,5 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, I'm Mads 
 
+I'm an Informatics student from Norway!
 <!--
 **madshermansen/madshermansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
