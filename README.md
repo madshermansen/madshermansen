@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Mads 
 
-I'm an Informatics student from Norway!
+[![GitHub Streak](https://streak-stats.demolab.com/?user=madshermansen&theme=dark)](https://git.io/streak-stats)
 
 ## Languages
 
