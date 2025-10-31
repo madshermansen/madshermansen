@@ -2,6 +2,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=madshermansen&theme=dark)](https://git.io/streak-stats)
 
+Started Count 31. Oct 2025 12:35
+![](https://komarev.com/ghpvc/?username=madshermansen)
+
 ## Languages
 
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
