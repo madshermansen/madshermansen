@@ -49,3 +49,8 @@ Started Count 31. Oct 2025 12:35
 ![App Store Connect](https://img.shields.io/badge/App_Store_Connect-4D4D4D?style=for-the-badge&logo=app-store&logoColor=white)
 ![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/madshermansen/madshermansen/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/madshermansen/madshermansen/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
